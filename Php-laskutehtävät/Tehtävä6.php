@@ -1,4 +1,5 @@
 <?php
+// Määritellään muuttujat
 $a = 7.5;
 $b = 4.2;
 $pinta_ala = $a * $b;
